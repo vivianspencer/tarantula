@@ -1,0 +1,15 @@
+# Go specific
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE - JetBrains
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
