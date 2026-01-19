@@ -127,6 +127,29 @@ perf: optimise concurrent crawling
 - Updated documentation if API changes
 - Descriptive PR title and description
 
+### Documentation Maintenance
+
+**README Updates:**
+When completing a feature or change, always review and update the README.md file:
+- **Roadmap section** - Update feature checkboxes from `[ ]` to `[x]` when complete
+- **Features section** - Update "Current Status" to reflect newly implemented capabilities
+- **Usage examples** - Add examples for new CLI flags or commands
+- **Installation/Prerequisites** - Update if new dependencies or requirements are added
+- **Performance targets** - Update if benchmarks change significantly
+
+**When to Update README:**
+- After merging a feature from an OpenSpec proposal
+- When adding new CLI commands or flags
+- When adding new dependencies or system requirements
+- When changing installation steps
+- When deprecating or removing features
+
+**Example Workflow:**
+1. Complete implementation of feature from `openspec/changes/add-feature/`
+2. Archive the change with `openspec archive add-feature`
+3. Update README.md roadmap checkboxes and feature descriptions
+4. Commit README changes with implementation (or as separate commit)
+
 ## Domain Context
 
 ### SEO Terminology
