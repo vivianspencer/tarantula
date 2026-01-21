@@ -3,7 +3,7 @@
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Go Version](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go)](https://go.dev/)
 
-**Tarantula** is an open-source desktop web crawler and SEO auditing tool, designed as a fast, lightweight alternative to Screaming Frog. Built in Go for maximum performance, Tarantula enables comprehensive technical SEO audits by crawling websites and analysing key on-page elements, site structure, and technical issues.
+**Tarantula** is an open-source desktop web crawler and SEO auditing tool, designed as a fast, lightweight alternative. Built in Go for maximum performance, Tarantula enables comprehensive technical SEO audits by crawling websites and analysing key on-page elements, site structure, and technical issues.
 
 ## 🎯 Purpose
 
